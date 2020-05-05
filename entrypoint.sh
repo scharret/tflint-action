@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -exo pipefail
+set -eo pipefail
 # Author: Rickard Löfström <rickard.lofstrom@teliacompany.com>
 
 function print_message() {
